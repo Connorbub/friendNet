@@ -18,10 +18,4 @@
 <li style='font-size:14px; margin-left: 20px; margin-bottom: 5px;'>Ad-free. Other sites like Facebook have sneaky ways of prying money from their users. However, friendNet is a completely non-profit website.</li>
 <li style='font-size:14px; margin-left: 20px; margin-bottom: 5px;'>Open-source. Nothing to hide here, folks! All of you beginner web developers like me may learn a thing or two from my code. Find it <a href='https://github.com/Connorbub/friendNet-PHP' style='font-size:14px;'>here</a>.</li>
 <br />
-<h3>Who made this?</h3>
-<p style='font-size:14px;'>friendNet was dreamt up by, coded by, and is managed by aspiring high school web and game developer <a href="./Connorbub" style='font-size:14px;'>Connor Young</a>.</p>
-<br />
-<h3>Want to contact me?</h3>
-<p style='font-size:14px;'>For questions, suggestions, and even simply a greeting or thank you, send an email to <a href="mailto:connorbubgames@gmail.com" style='font-size: 14px;'>me</a>. I'd love to hear your feedback!</p>
-<br />
 <hr />
